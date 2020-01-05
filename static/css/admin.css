@@ -1,0 +1,7 @@
+#header, caption{
+    background: #29a0a0 !important;
+}
+
+.breadcrumbs, h2, [type="submit"]{
+    background: #2ccacad3 !important;
+}
